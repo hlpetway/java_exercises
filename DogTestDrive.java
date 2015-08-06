@@ -25,7 +25,5 @@ class DogTestDrive {
     one.bark();
     two.bark();
     three.bark();
-    apples!
-    Making chan cha changes
   }
 }
